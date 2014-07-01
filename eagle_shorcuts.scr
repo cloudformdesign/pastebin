@@ -11,6 +11,5 @@ assign F8 Ripup;
 assign F9 Paste;
 assign F10 Grid mm 1 on; Grid alt mm 0.1;
 assign Alt+F10 Grid inch .05 on; Grid alt inch .005;
-assign F12 display none; display 1 17 18 19 20 21 23 25 29 31 44 45;
-assign Alt+F12 display none; display 16 17 18 19 20 22 24 26 28 30 32 44 45;
-
+assign F12 display none 1 17 18 19 20 21 23 25 29 31 44 45;
+assign Alt+F12 display none 16 17 18 19 20 22 24 26 28 30 32 44 45;
